@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+GrecoViewTool::Renderer.copyright 'Lydia Greco', 'All rights reserved'
 
 ## Development
 
